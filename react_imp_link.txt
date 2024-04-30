@@ -1,0 +1,86 @@
+27-sep-2023
+
+today number 3 video
+
+github repository:
+1. https://github.com/rima2500kundu/ReactCWH
+2. 
+
+
+1. windows powershell
+2. node and npm
+3. vs code
+4. react dev tool
+5. 
+
+
+*vs code extensions:
+1. thunder clients
+2. ES7 React/Redux/GraphQL/React-Native snippets
+3. Bracket Pair Color DLW
+4. Auto Rename Tag
+5. Prettier - Code formatter
+6. 
+
+
+*npm meaning we take allover the package
+npx is like we only take the things and after finishing the work we handover the entire package
+so we are creating react app with the help of npx.
+*if npx new app not create see this video: https://www.youtube.com/watch?v=zgJC2LAVrDI&ab_channel=CodeArt
+
+
+*components, props, state
+now in src app.js is a component. All compents are going to src folder.
+index.html file is in public folder and it is the important thing.
+
+
+*must know js things:
+https://www.w3schools.com/js/js_string_methods.asp
+https://www.w3schools.com/jsref/jsref_foreach.asp
+https://www.w3schools.com/js/js_array_methods.asp
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/jsref/jsref_if.asp#:~:text=The%20if%2Felse%20statement%20executes,actions%20based%20on%20different%20conditions.
+https://www.w3schools.com/js/js_switch.asp
+https://www.youtube.com/watch?v=kXtOr2YWd6I&ab_channel=CodeWithHarry
+destructuring arrays {next day please read}
+arrow function
+js event
+js string method
+
+
+
+*jsx:
+under src folder app.js(components) is showing the frontend.
+JSX is a syntax extension, while React is a JavaScript library.
+babel conpiled jsx
+app.js is our whole site
+
+*in react there are two types of compontents - 1. function based component(but now this is the most popular) 2. class based component(at very first they used this)
+jsx fragment <> </>
+*Babel compiles JSX down to React.createElement() calls.
+
+module - 
+props - is properties. ami akta component baniachi abr oi component er modhey kichu jinis pass krte chaichi. components er modhey kichu variables ache jeta ami blbo. jeta ami blbo setai props.
+state - 
+
+component is always start in capital letter
+
+rfc - react functional components
+pts - proptype string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
